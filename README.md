@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khizarminusone" target="blank"><img src="https://img.shields.io/twitter/follow/khizarminusone?logo=twitter&style=for-the-badge" alt="khizarminusone" /></a> </p>
 
-- 🌱 I’m currently learning **web development with JavaScript libraries like React etc.**
+- 🌱 I’m currently a student @ **NEXT HTX Sukkertoppen**
 
 - 🎥 YouTube channel with 1M+ views [YouTube](https://www.youtube.com/channel/UCIpMjfZC5W5sRD18oEQDb4Q)
 
